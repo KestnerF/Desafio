@@ -1,0 +1,15 @@
+Codigos
+
+o Git bash e um terminal extendido para otimizar o uso do git.
+
+comandos git
+
+- git Status
+- git init
+- git add
+- git commit
+- git remote add origin "URL"
+- Git pull
+- git clone
+- cd
+- ls
